@@ -1,0 +1,11 @@
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\ExcelToHtml\ExcelToHtml\bin\Debug\ExcelToHtml.exe
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\ExcelToHtml\ExcelToHtml\bin\Debug\ExcelToHtml.pdb
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\ExcelToHtml\ExcelToHtml\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\ExcelToHtml\ExcelToHtml\obj\Debug\ExcelToHtml.MainForm.resources
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\ExcelToHtml\ExcelToHtml\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\ExcelToHtml\ExcelToHtml\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\ExcelToHtml\ExcelToHtml\obj\Debug\ExcelToHtml.exe
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\ExcelToHtml\ExcelToHtml\obj\Debug\ExcelToHtml.pdb
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\ExcelToHtml\ExcelToHtml\bin\Debug\ExcelToHtml.exe.config
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\ExcelToHtml\ExcelToHtml\obj\Debug\ExcelToHtml.SettingForm.resources
+C:\Documents and Settings\соколов\Мои документы\SharpDevelop Projects\ExcelToHtml\ExcelToHtml\bin\Debug\MySql.Data.dll
